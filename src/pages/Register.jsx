@@ -1,6 +1,6 @@
 
 
-function Register() {
+const Register = () => {
   return (
     <div>Register</div>
   )
